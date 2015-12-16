@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.teqware" name="TEQWARE Wizard" version="1.3" provider-name="TEQWARE">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">TEQWARE Wizard</summary>
+		<description lang="en">In this wizard you will find the latest TEQWARE build</description>
+		<disclaimer lang="en">Update includes Asian Dramas and Movies, with IPTV Guides added.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.teqware.kodi" name="TEQWARE repository" version="1.3" provider-name="TEQWARE">
 	<extension point="xbmc.addon.repository" name="TEQWARE Repository">
 		<info compressed="false">http://raw.github.com/abauerx/TEQWARE/master/addons.xml</info>
