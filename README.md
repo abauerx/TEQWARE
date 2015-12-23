@@ -7,7 +7,7 @@
 <b>Last Update:</b> December 7, 2015<br>
 <b>Version:</b> 1.3<br>
 <b>Github:</b> https://github.com/abauerx/teqware<br>
-<b>Zip Download:</b> TBA<br>
+<b>Zip Download:</b> http://teqware.net23.net/Repository/repository.teqware.kodi-1.3.zip<br>
 
 
 Hello There!
