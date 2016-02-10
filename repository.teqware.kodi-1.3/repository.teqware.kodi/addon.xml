@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.teqware.kodi" name="TEQWARE repository" version="1.4" provider-name="TEQWARE">
+	<extension point="xbmc.addon.repository" name="TEQWARE Repository">
+		<info compressed="false">http://raw.github.com/abauerx/TEQWARE/master/addons.xml</info>
+		<checksum>http://raw.github.com/abauerx/TEQWARE/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/abauerx/TEQWARE/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>TEQWARE - The Future of Television</summary>
+		<description>Updates include</description>
+		<description>1. Navigational menu enhancement</description>
+		<description>2. Additional sections for EPL and sports</description>
+		<description>3. Malaysian content</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

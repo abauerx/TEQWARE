@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.teqware.kodi" name="TEQWARE repository" version="1.3" provider-name="TEQWARE">
+<addon id="repository.teqware.kodi" name="TEQWARE repository" version="1.4" provider-name="TEQWARE">
 	<extension point="xbmc.addon.repository" name="TEQWARE Repository">
 		<info compressed="false">http://raw.github.com/abauerx/TEQWARE/master/addons.xml</info>
 		<checksum>http://raw.github.com/abauerx/TEQWARE/master/addons.xml.md5</checksum>
